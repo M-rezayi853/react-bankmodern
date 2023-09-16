@@ -12,6 +12,7 @@ export default {
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
+        iranYekan: ['iranyekan'],
       },
     },
     screens: {
